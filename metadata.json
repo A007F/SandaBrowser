@@ -1,0 +1,5 @@
+{
+  "name": "Sanda Browser (متصفح ساندا)",
+  "description": "A high-fidelity prototype of a privacy-focused, Rust-inspired browser interface featuring RTL support, advanced security settings simulation, and a minimal design system.",
+  "requestFramePermissions": []
+}
